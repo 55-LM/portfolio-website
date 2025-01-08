@@ -15,35 +15,35 @@ const projects = [
   {
     name: "Bookstore App",
     description: "Developed a JavaFX application enabling users to purchase books through an interactive interface with a points-based system.",
-    image: "/bookstoreimg2.png",
+    image: "/bookstoreimg2.PNG",
     github: "https://github.com/55-LM/Bookstore-App",
   },
   {
     name: "Film.ly",
     description:
       "A movie review website with microservices for searching, liking movies, and user authentication using layered architecture and REST APIs.",
-    image: "/filmforumimg.png",
+    image: "/filmforumimg.PNG",
     github: "https://github.com/55-LM/Film-Forum-Website",
   },
   {
     name: "Soccer League DBMS",
     description:
       "Developed a Soccer League Database System to manage and provide accessible statistics for players, matches, and teams.",
-    image: "/soccerdbmsimg.png",
+    image: "/soccerdbmsimg.PNG",
     github: "https://github.com/55-LM/Soccer-League-DBMS",
   },
   {
     name: "General Purpose Processor",
     description:
       "Designed a general-purpose processor with an ALU for arithmetic and logical operations, implemented using Quartus II and a Cyclone-II FPGA.",
-    image: "/aluimg1.png",
+    image: "/aluimg1.PNG",
     github: "https://github.com/55-LM/General-Purpose-Processor-Design",
   },
   {
     name: "Personal Portfolio Website",
     description:
       "A portfolio website showcasing projects, skills, and technologies, project descriptions, and links to source code.",
-    image: "/portfolioimg.png",
+    image: "/portfolioimg.PNG",
     github: "https://github.com/55-LM/portfolio-website",
   },
 ]
