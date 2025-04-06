@@ -1,4 +1,4 @@
-import React from "react"
+import React from "react";
 
 const skills = [
   {
@@ -23,15 +23,18 @@ const skills = [
       "Visual Studio Code",
     ],
   },
-]
+];
 
 const TechnologiesSection = () => {
   return (
     <section id="technologies">
       <div className="my-12 pb-12 md:pt-16 md:pb-48">
-        <h1 className="text-center font-bold text-4xl">
+        <h1
+          style={{ fontFamily: "EditorialNew", fontSize: "2rem" }}
+          className="text-center text-neutral-800"
+        >
           Technologies
-          <hr className="w-6 h-1 mx-auto my-4 bg-black dark:bg-gray-300 border-0 rounded"></hr>
+          <hr className="w-6 h-1 mx-auto my-4 bg-black border-0 rounded" />
         </h1>
 
         <div className="flex flex-col space-y-10 md:space-y-0 md:p-4">
@@ -42,7 +45,7 @@ const TechnologiesSection = () => {
                 {skill.items.map((item, idx) => (
                   <p
                     key={idx}
-                    className="bg-gray-100 dark:bg-gray-800 px-4 py-2 m-2 text-black dark:text-gray-300 rounded-lg font-semibold"
+                    className="bg-gray-100 px-4 py-2 m-2 text-black rounded-lg font-semibold"
                   >
                     {item}
                   </p>
@@ -53,7 +56,7 @@ const TechnologiesSection = () => {
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default TechnologiesSection
+export default TechnologiesSection;
