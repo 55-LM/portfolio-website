@@ -14,7 +14,7 @@ const HeroSection = () => {
       {/* Background image */}
       <div className="absolute inset-0 -z-10 flex items-center justify-center">
         <Image
-          src="/Image 20.png" // Light-mode version only
+          src="/image 20.png" // Light-mode version only
           alt=""
           width={1000}
           height={1000}
