@@ -10,14 +10,14 @@ const projects = [
     name: "Film.ly",
     description:
       "A movie review website with microservices for searching, liking movies, and user authentication using layered architecture and REST APIs.",
-    image: "/Filmlyupdate1.PNG",
+    image: "/Filmlyupdate1.png",
     github: "https://github.com/55-LM/Film-Forum-Website",
   },
   {
     name: "Football DBMS",
     description:
       "Developed a Soccer League Database System to manage and provide accessible statistics for players, matches, and teams.",
-    image: "/SoccerDBMSupdate.PNG",
+    image: "/SoccerDBMSupdate.png",
     github: "https://github.com/55-LM/Soccer-League-DBMS",
   },
   {
@@ -31,14 +31,14 @@ const projects = [
     name: "Bookstore App",
     description:
       "Developed a JavaFX application enabling users to purchase books through an interactive interface with a points-based system.",
-    image: "/BookstoreUpdate.PNG",
+    image: "/BookstoreUpdate.png",
     github: "https://github.com/55-LM/Bookstore-App",
   },
   {
     name: "Personal Portfolio Website",
     description:
       "A portfolio website showcasing projects, skills, and technologies, project descriptions, and links to source code.",
-    image: "/PortfolioUpdate1.PNG",
+    image: "/PortfolioUpdate1.png",
     github: "https://github.com/55-LM/portfolio-website",
   },
 ];
