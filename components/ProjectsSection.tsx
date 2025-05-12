@@ -7,7 +7,7 @@ import SlideUp from "./SlideUp";
 
 const projects = [
   {
-    name: "AIBO",
+    name: "Aibo",
     description:
       "A handheld digital detox device with Pomodoro timer, music, alarm, and arrow-based navigation, built on ESP32 with a scroll-wheel interface.",
     image: "/aibo.png",
@@ -17,14 +17,14 @@ const projects = [
     name: "Film.ly",
     description:
       "A movie review website with microservices for searching, liking movies, and user authentication using layered architecture and REST APIs.",
-    image: "/Filmlyupdate1.png",
+    image: "/Filmlyupdate1.PNG",
     github: "https://github.com/55-LM/Film-Forum-Website",
   },
   {
     name: "Football DBMS",
     description:
       "Developed a Soccer League Database System to manage and provide accessible statistics for players, matches, and teams.",
-    image: "/SoccerDBMSupdate.png",
+    image: "/SoccerDBMSupdate.PNG",
     github: "https://github.com/55-LM/Soccer-League-DBMS",
   },
   {
@@ -38,14 +38,14 @@ const projects = [
     name: "Bookstore App",
     description:
       "Developed a JavaFX application enabling users to purchase books through an interactive interface with a points-based system.",
-    image: "/BookstoreUpdate.png",
+    image: "/BookstoreUpdate.PNG",
     github: "https://github.com/55-LM/Bookstore-App",
   },
   {
     name: "Personal Portfolio Website",
     description:
       "A portfolio website showcasing projects, skills, and technologies, project descriptions, and links to source code.",
-    image: "/PortfolioUpdate1.png",
+    image: "/PortfolioUpdate1.PNG",
     github: "https://github.com/55-LM/portfolio-website",
   },
 ];
