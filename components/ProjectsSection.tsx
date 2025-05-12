@@ -10,7 +10,7 @@ const projects = [
     name: "AIBO",
     description:
       "A handheld digital detox device with Pomodoro timer, music, alarm, and arrow-based navigation—built on ESP32 with a scroll-wheel interface.",
-    image: "/aibo.PNG",
+    image: "/aibo.png",
     github: "https://github.com/55-LM/AIBO",
   },
   {
