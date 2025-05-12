@@ -7,6 +7,13 @@ import SlideUp from "./SlideUp";
 
 const projects = [
   {
+    name: "AIBO",
+    description:
+      "A handheld digital detox device with Pomodoro timer, music, alarm, and arrow-based navigation—built on ESP32 with a scroll-wheel interface.",
+    image: "/aibo.PNG",
+    github: "https://github.com/55-LM/AIBO",
+  },
+  {
     name: "Film.ly",
     description:
       "A movie review website with microservices for searching, liking movies, and user authentication using layered architecture and REST APIs.",
